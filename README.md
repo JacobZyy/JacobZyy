@@ -7,9 +7,6 @@ Hi there 👋, I'm Jacob 😁.
 -  👯 open source contents: [react-rainbow-dashboard]('https://www.npmjs.com/package/react-rainbow-dashboard')
 -  📫 Blog: [jacob-z.xyz]("https://github.com/JacobZyy")(建设中...)
 
-## Looking for Better Jobs
-
-
 <!-- - 🌱 I’m currently learning <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height=20 /></code> <code><img src="https://vitejs.dev/logo.svg" height=20 /></code> -->
 
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -21,3 +18,15 @@ Hi there 👋, I'm Jacob 😁.
 
 <!-- ![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
 ![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+<a href="https://www.heyfe.org/">
+  <img align="right" alt="CodeSandbox" width="20px" height="20px" src="./assets/home.svg" />
+</a>
+
+<a href="https://blog.heyfe.org/">
+  <img align="right" alt="CodeSandbox" width="20px" height="20px" src="https://www.heyfe.org/public/blog.svg" />
+</a>
+
+<a href="https://codesandbox.io/u/ZxBing0066">
+  <img align="right" alt="CodeSandbox" width="20px" height="20px" src="./assets/codesandbox.svg" />
+</a>
